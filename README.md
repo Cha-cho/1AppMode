@@ -8,3 +8,5 @@ The option never became popular. The capability does still live on to some degre
 1AppMode is different from both those options. It's just a global toggle switch that resides in the status bar menu. Activating it hides all application windows that are not active. 
 
 It also works with the desktop such that when you click the desktop the Finder/desktop becomes active.
+
+To install, just download, unzip and run. It will appear in the status bar. If you like it, you can copy it into the Applications folder and have it start when you login by clicking the "Start at Login" option in then menu. For MacOS 10.7 and higher.
