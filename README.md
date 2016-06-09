@@ -1,7 +1,7 @@
 # 1AppMode
 MacOS X Single Application Mode Revisited 
 
-Many moons ago, when MacOS X was introduced in 2000, every MacOS window had a toggle button in the title bar. The small button could be used to put a window in "Single Window Mode". When a user clicked on a icon in the dock for a "Single Window Mode" application, all other active applications would be minimized. 
+Many moons ago, when MacOS X was introduced in 2000, every MacOS window had a toggle button in the title bar. The small button could be used to put a window in "Single Window Mode". When a user clicked on a icon in the dock for a "Single Window Mode" application, all other active applications would be minimized. It was a way for users to focus on one application window at a time and see more of their desktop.
 
 The option never became popular. The capability does still live on to some degree as full screen mode and also as "single application mode" which can be activated via a terminal command. However the terminal command option only works when the user clicks on the Dock to task switch. Command-tab switching ignores the setting.
 
