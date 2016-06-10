@@ -9,4 +9,7 @@ The option never became popular. The capability does still live on to some degre
 
 It also works with the desktop such that when you click the desktop the Finder/desktop becomes active.
 
-To install, just download, unzip and launch the app. It will appear in the status bar. If you like it, you can copy it into the Applications folder and have it start when you login by clicking the "Start at Login" option in then menu. For MacOS 10.7 and higher. 
+#To install
+Just download, unzip and launch the app. Fearlessly click the pop-up that warns you are launching an app from the internet. Once launched, 1AppMode will appear in the status bar. If you like it, you can copy it into the Applications folder and have it start when you login by clicking the "Start at Login" option in then menu. 
+
+For MacOS 10.7 and higher. 
