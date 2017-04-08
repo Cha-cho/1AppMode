@@ -1,4 +1,4 @@
-# 1AppMode
+# 1AppMode Updated and Now available on the Mac App Store
 MacOS X Single Application Mode Revisited 
 
 Many moons ago, when MacOS X was introduced in 2000, every MacOS window had a toggle button in the title bar. The small button could be used to put a window in "Single Window Mode". When a user clicked on a icon in the dock for a "Single Window Mode" application, all other active applications would be minimized. It was a way for users to focus on one application window at a time and see more of their desktop.
@@ -9,7 +9,5 @@ The option never became popular. The capability does still live on to some degre
 
 It also works with the desktop such that when you click the desktop the Finder/desktop becomes active.
 
-#To install
-Just download, unzip and launch the app. Fearlessly click the pop-up that warns you are launching an app from the internet. Once launched, 1AppMode will appear in the status bar. If you like it, you can copy it into the Applications folder and have it start when you login by clicking the "Start at Login" option in then menu. 
 
 For MacOS 10.7 and higher. 
