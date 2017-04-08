@@ -1,4 +1,6 @@
-# 1AppMode Updated and Now available on the Mac App Store
+# 1AppMode - April 7 Update: Now available on the Mac App Store
+https://itunes.apple.com/us/app/1appmode/id979862251?ls=1&mt=12
+
 MacOS X Single Application Mode Revisited 
 
 Many moons ago, when MacOS X was introduced in 2000, every MacOS window had a toggle button in the title bar. The small button could be used to put a window in "Single Window Mode". When a user clicked on a icon in the dock for a "Single Window Mode" application, all other active applications would be minimized. It was a way for users to focus on one application window at a time and see more of their desktop.
