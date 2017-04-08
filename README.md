@@ -1,4 +1,4 @@
-# 1AppMode - April 7 Update: Now available on the Mac App Store
+# 1AppMode - April 7 2017 Update: Now available on the Mac App Store
 https://itunes.apple.com/us/app/1appmode/id979862251?ls=1&mt=12
 
 MacOS X Single Application Mode Revisited 
